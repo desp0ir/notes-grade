@@ -1,8 +1,9 @@
-# deneme2v
+# notes-grade
 
 A new Flutter project.
 
 ## Getting Started
+pırıl sanlı
 
 This project is a starting point for a Flutter application.
 
